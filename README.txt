@@ -1,3 +1,11 @@
+WHAT THIS IS
+===============
+
+I am going to try and modify the current Emby for Roku to only stream Live tv and have it auto continue play when re-opening app. This will hopefully make it behave like DirecTV now. 
+
+This is my first Roku dev and I don't have much dev experience so this will be fun.
+
+
 How to Contribute
 ============
 
