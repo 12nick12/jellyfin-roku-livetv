@@ -5,6 +5,7 @@ I am going to try and modify the current Emby for Roku to only stream Live tv an
 
 This is my first Roku dev and I don't have much dev experience so this will be fun.
 
+I have no intentions of adding recording control since this can be done from the web ui and all I want is just live TV that just works
 
 How to Contribute
 ============
